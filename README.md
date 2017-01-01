@@ -1,7 +1,7 @@
 # rnn-tutorial
 RNN Tutorial for Artists
 
-![title_img](https://cdn.rawgit.com/hardmaru/rnn-tutorial/master/sketch_predict_svg.js)
+![title_img](https://cdn.rawgit.com/hardmaru/rnn-tutorial/master/neural.svg)
 
 Suplementary material for [blog post](http://blog.otoro.net/2017/01/01/recurrent-neural-network-artist/).
 
