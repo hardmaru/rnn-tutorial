@@ -5,7 +5,7 @@ RNN Tutorial for Artists
 
 Suplementary material for [blog post](http://blog.otoro.net/2017/01/01/recurrent-neural-network-artist/).
 
-##Usage##
+## Usage ##
 
 In the html file, include the following files:
 
@@ -19,6 +19,6 @@ In the html file, include the following files:
 
 The sketch in `sketch_basic.js` is a basic example of how the Handwriting Model works.  It is written with p5.js as an object hence allowing multiple sketches to be on the same page.
 
-##License##
+## License ##
 
 MIT
